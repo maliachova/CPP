@@ -1,7 +1,5 @@
 
 # CPP/C
-
-test
 ![Issues](https://img.shields.io/github/issues/akshitagit/CPP)
 ![Pull Requests](https://img.shields.io/github/issues-pr/akshitagit/CPP)
 ![Forks](https://img.shields.io/github/forks/akshitagit/CPP)
